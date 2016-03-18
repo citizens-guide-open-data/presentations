@@ -111,6 +111,9 @@ body {
   display: block;
   margin-left: 40px; }
 
+.reveal li {
+  padding-bottom: 10px; }
+
 .reveal dt {
   font-weight: bold; }
 
