@@ -1,6 +1,6 @@
 # Presentation notes for Curtis
 
-//Haven't timed it yet but here are my first draft notes. Comments if necessary. 
+//Haven't timed it yet but here are my first draft notes. Comments if necessary.
 
 ## Introduction and Review of the Citizen's Guide (2min)
 
@@ -16,38 +16,43 @@ We wrote the citizen's guide with a number of objectives in mind beyond increasi
 
 [SLIDE]
 
-If you follow the shortened link we posted, you can see how we organized the Citizen's Guide in an attempt to be broad, yet somewhat robust. We are still working on the project though, and appreciate comments, suggestions, and criticisms. Because of some of the observations we have made, future steps would situate the Citizen's Guide to a more critical place and within other data-driven and computation/culture debates within our societies. 
+If you follow the shortened link we posted, you can see how we organized the Citizen's Guide in an attempt to be broad, yet somewhat robust. We are still working on the project though, and appreciate comments, suggestions, and criticisms. Because of some of the observations we have made, future steps would situate the Citizen's Guide to a more critical place and within other data-driven and computation/culture debates within our societies.
 
 ## Reflections and Takeaways on Value (2min)
 
-Based on the process of writing the citizen's guide, we have a few reflections and takeaways on value, related to the theme of this panel, that I will mention today:
+As Curtis mentioned, the process of writing the citizen's guide provided us the opportunity to reflect. From this we have some takeaways on what the concept of 'value,' means for civil society and open data:
 
-- first in writing the guide we had to asses who would make use of the guide an further what would count as valuable
+- In writing the guide we had to asses who would make use of the guide ans further what would count as valuable, given its name _Citizen's Guide_ the primary audience should be readily apparent, and Curtis will speak more shortly on ways that citizenship should perhaps influence how we understand value.
 
-- emergent value as _(potential value of open data)_...
-    - "access" (having channels)
-    - "recognition" (seeing importance)
-    - "ability" (making use)
-    - "criticality" (understanding and assessing)
+- From understanding citizen's as our audience, and the frame we applied while writing, _the emerging potential value of open data became couched in themes of_...
+    - "access" (open data providing citizens with channels)
+    - "recognition" (open data creating a lense for citizens to see what is important)
+    - "ability" (open data generating ways to make use of information)
+    - "criticality" (open data building understanding)
 
-- Looking at how value is discussed elsewhere you see similar themes. From Open Data Institute the terms "improvements, accessing, understanding, jobs, discovery" (Open Data Institute, n.d.) From a McKinsey Report the terms "economic, enhances impact, business opportunities, consumer benefit" (Manyika et al., 2013)
-    - However the language and orientation feels significantly different when taken from a more civil society oriented perspective
+- Looking at how value is discussed elsewhere you see similar terms.
+    - Open Data Institute, which I'll loosely term non-profit, the terms "improvements, accessing, understanding, discovery" (Open Data Institute, n.d.)
+    - A McKinsey Report, which I'll link McKinsey to the private sector, the terms "economic, enhances impact, business opportunities, consumer benefit" (Manyika et al., 2013)
 
-- _Connections, or lack thereof,_ of people who could benefit and people with expertise
+- However, I want to pause and make the case that the language and orientation feels significantly different when rooted within justice-based conception of information and participation
 
-- _Space or site of 'inbetween'_ that open data occupies: government activities and intentions, citizens and their representation
+- Next, the guide and the process of creation served to surface where there are, or should be _connections and links_ between people who could benefit and the people with expertise
 
-## Reorientation of a Civil Society Perspective 
+- Finally, we wondered if instead of just looking at the 'open data itself,' there were potentials for seeing open data's value in the _'inbetween'_ or contested space that opening data can create:
+    - Whether when the inbetween is in government activities and their intentions around accountability
+    - Or instead in the midst of everyday citizen concerns and their representation in policy making
 
-On this panel, we're supposed to be representing the perspective of civil society. Presumably, that means that we're supposed to be talking for and about groups that work with or outside of government to accomplish tasks that advance ideological goals (usually democratic), or increase the presumed stock of public goods. 
+## Reorientation of a Civil Society Perspective
 
-As we've researched, we've come to an undertstanding that there is no unified civil society perspective, because aims and goals are always contested, and issues are never clearcut. We've moved away from the Habermasian understanding of a public sphere of rational, liberal discourse on 'what ought to be done' to a view espoused by thinkers following John Dewey like Chris Dantec and Carl DiSalvo that publics are uneven, plural, agonistic and issues based groups of people who share a stake in some matter of civil concern (Dantec, 2013). We wanted to ask ourselves what sort of publics are arising around open data, and what issues they serve. 
+On this panel, we're supposed to be representing the perspective of civil society. Presumably, that means that we're supposed to be talking for and about groups that work with or outside of government to accomplish tasks that advance ideological goals (usually democratic), or increase the presumed stock of public goods.
 
-Prima facie, there is a worry that OD will be used as a tool for those who already have the skills to access, understand, and put it to task. In this case, OD might largely be used to serve the needs of technically saavy, middle class urbanites. As we found, many data sets are opened by priority of request- so those that already know what to do would have the initiative. Communities who are underserved or marginalized in other ways are perhaps also more likely to lack the skills necessary to mobilize for political action, much less to use Open Data for those ends. 
+As we've researched, we've come to an undertstanding that there is no unified civil society perspective, because aims and goals are always contested, and issues are never clearcut. We've moved away from the Habermasian understanding of a public sphere of rational, liberal discourse on 'what ought to be done' to a view espoused by thinkers following John Dewey like Chris Dantec and Carl DiSalvo that publics are uneven, plural, agonistic and issues based groups of people who share a stake in some matter of civil concern (Dantec, 2013). We wanted to ask ourselves what sort of publics are arising around open data, and what issues they serve.
+
+Prima facie, there is a worry that OD will be used as a tool for those who already have the skills to access, understand, and put it to task. In this case, OD might largely be used to serve the needs of technically saavy, middle class urbanites. As we found, many data sets are opened by priority of request- so those that already know what to do would have the initiative. Communities who are underserved or marginalized in other ways are perhaps also more likely to lack the skills necessary to mobilize for political action, much less to use Open Data for those ends.
 
 Perhaps the most glaring issue that comes up when writing a Citizen's Guide to Open Data is not the elucidation of Open Data concepts, but the implictly normative understanding of the Citizen. What are the threads that tie citizens together, and get them to work with each other? Can we rely on the neoliberal citizen, who is focussed on maximizing convenience and reducing interpersonal friction in market transactions through the use special tools? Or do we have to fall back onto older, (still liberal) concepts of civic-minded nationalism?
 
-Even for those who do use Open Data to advance public causes, it is worth inquiring about the perspective of many of their solutions. Using Open Data is often, but not always, based on quantatative data. But how well do statistics capture the realities of situations, how can more qualitative data, such as oral histories be incorporated into this work? 
+Even for those who do use Open Data to advance public causes, it is worth inquiring about the perspective of many of their solutions. Using Open Data is often, but not always, based on quantatative data. But how well do statistics capture the realities of situations, how can more qualitative data, such as oral histories be incorporated into this work?
 
 In some cases, social and data justice projects have been very successful in using Open Data and design to 'reveal hegemony' (DiSalvo, 2014)- but how does making injustice more explicit with Open Data do anything to shatter the power relations that perpetuate oppression? Some value might come from hackathons and hypothetical pitches, but is it primarily accrued to those involved- through networking and professional development? If so, do we need to look for better models for using open data and technology in service of publics that are not already included in open data civil society?
 
@@ -56,10 +61,16 @@ When considering the perspective and attitude of the citizen, we must also consi
 
 ## Revaluation of Open Data (4min)
 
-- Acknowledgement of heterogeneity. Publics are constructed based on the provision of infrastructures (Dantec, 2013)
+Finally we wanted to end with some small thoughts on ways forward in understanding 'value' from a civil society perspective.
 
-- Resist equivocations of datafication with democracy (Powell, 2015)
+If, as Kranzberg's first law of technology slightly tailored, articulates "[data] is neither good nor bad; nor is it neutral" we have to continually challenge ourselves and develop strategies that push us toward better outcomes:
 
-- Engagement and Mobilization. Participation to redress (Seiber and Johnson, 2015) rather than reinforce existing powerful groups
+- First we are hoping for a greater **acknowledgement of the heterogeneity within civil society**. As Curtis mentioned, using the concept of **publics** can open space between an undifferentiated understanding of citizens. Recent work on Big Data's impact on marginalized communities by XXX and XXX brings this out.
 
-% drive home
+- Further, if infrastructures lead to the construction of these publics more care needs to be taken in understanding the impacts of their design (Dantec, 2013)
+
+- Second, more work needs to be to resist equivocations of datafication with democracy (Powell, 2015). If we rely on open data alone to drive greater democracy have we fully understood the tradeoffs of relying on quantified experience, is there a potential collapse that may be occuring?
+
+- Third, further thinking of engagement and mobilization. Participation to redress (Seiber and Johnson, 2015) rather than reinforce existing powerful groups.
+
+So, with all of this, how do we as open data researchers, but also representatives of civil society, challenge ourselves to keep these considerations visible, to work with friction, and demand technologies that remain opaque.
