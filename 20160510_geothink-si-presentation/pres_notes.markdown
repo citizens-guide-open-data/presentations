@@ -19,6 +19,24 @@ We wrote the citizen's guide with a number of objectives in mind beyond increasi
 If you follow the shortened link we posted, you can see how we organized the Citizen's Guide in an attempt to be broad, yet somewhat robust. We are still working on the project though, and appreciate comments, suggestions, and criticisms. Because of some of the observations we have made, we'd  like to take the Citizen's Guide to a more critical place and to situate it within other data-driven and computation/culture debates within our societies. 
 
 // Dawn 2mins
+## Reflections and Takeaways on Value (2min)
+
+Based on the process of writing the citizen's guide, we have a few reflections and takeaways on value, related to the theme of this panel, that I will mention today:
+
+- first in writing the guide we had to asses who would make use of the guide an further what would count as valuable
+
+- emergent value as _(potential value of open data)_...
+    - "access" (having channels)
+    - "recognition" (seeing importance)
+    - "ability" (making use)
+    - "criticality" (understanding and assessing)
+
+- Looking at how value is discussed elsewhere you see similar themes. From Open Data Institute the terms "improvements, accessing, understanding, jobs, discovery" (Open Data Institute, n.d.) From a McKinsey Report the terms "economic, enhances impact, business opportunities, consumer benefit" (Manyika et al., 2013)
+    - However the language and orientation feels significantly different when taken from a more civil society oriented perspective
+
+- _Connections, or lack thereof,_ of people who could benefit and people with expertise
+
+- _Space or site of 'inbetween'_ that open data occupies: government activities and intentions, citizens and their representation
 
 ## Reorientation of a Civil Society Perspective 
 
@@ -30,5 +48,11 @@ Prima facie, there is a worry that OD will be used as a tool for those who alrea
 
 Even for those who do use Open Data to advance their public causes, it is worth inquiring about the value of many of their solutions. In some cases, projects have been very successful in using Open Data and design to 'reveal hegemony' (DiSalvo, 2014 [adversarial])- but how does making injustice more explicit with Open Data do anything to shatter the power relations that perpetuate oppression? Some value might come from hackathons and short-term application development runs for public good, but if it is primarily networking and quasi-educational, do we need to look for better models for using open data and technology in service of publics that are not already included in open data civil society?
 
+## Revaluation of Open Data (4min)
 
+- Acknowledgement of heterogeneity. Publics are constructed based on the provision of infrastructures (Dantec, 2013)
+
+- Resist equivocations of datafication with democracy (Powell, 2015)
+
+- Engagement and Mobilization. Participation to redress (Seiber and Johnson, 2015) rather than reinforce existing powerful groups
 
