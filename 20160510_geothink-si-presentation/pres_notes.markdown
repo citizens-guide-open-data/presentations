@@ -1,6 +1,4 @@
-# Presentation notes for Curtis
-
-//Haven't timed it yet but here are my first draft notes. Comments if necessary.
+# Presentation Notes
 
 ## Introduction and Review of the Citizen's Guide (2min)
 
@@ -20,26 +18,28 @@ If you follow the shortened link we posted, you can see how we organized the Cit
 
 ## Reflections and Takeaways on Value (2min)
 
-As Curtis mentioned, the process of writing the citizen's guide provided us the opportunity to reflect. From this we have some takeaways on what the concept of 'value,' means for civil society and open data:
+As Curtis mentioned, the process of writing the citizen's guide provided us the opportunity to reflect. From this we have some takeaways on what the concept of 'value,' means for civil society and open data.
 
-- In writing the guide we had to asses who would make use of the guide ans further what would count as valuable, given its name _Citizen's Guide_ the primary audience should be readily apparent, and Curtis will speak more shortly on ways that citizenship should perhaps influence how we understand value.
+But first, it might help to tease out the two ways we can use the term value: not only does value refer to the measure of a worth of a thing, in an instrumental or economic sense, it can also can be used to consider the degree of importance, in a much more normative or ethical sense.
 
-- From understanding citizen's as our audience, and the frame we applied while writing, _the emerging potential value of open data became couched in themes of_...
+- In writing the guide we had to asses who would make use of it and act as our primary audience, further what would count as valuable to them. Given its name _Citizen's Guide_ the primary audience should be relatively apparent, and Curtis will shortly speak more to ways that citizenship could perhaps influence how we understand value.
+
+- From this anchor of citizen's as our audience, and the frame we applied while writing, _the emerging potential value of open data became couched in themes of_...
     - "access" (open data providing citizens with channels)
     - "recognition" (open data creating a lense for citizens to see what is important)
     - "ability" (open data generating ways to make use of information)
-    - "criticality" (open data building understanding)
+    - "criticality" (open data building approaches to understanding)
 
-- Looking at how value is discussed elsewhere you see similar terms.
-    - Open Data Institute, which I'll loosely term non-profit, the terms "improvements, accessing, understanding, discovery" (Open Data Institute, n.d.)
-    - A McKinsey Report, which I'll link McKinsey to the private sector, the terms "economic, enhances impact, business opportunities, consumer benefit" (Manyika et al., 2013)
+- Looking at how value is discussed from other perspectives you see not too disimilar terms, for instance:
+    - Open Data Institute uses the terms "improvements, accessing, understanding, discovery" (Open Data Institute, n.d.)
+    - McKinsey uses the terms "economic access, enhances impact, business opportunities, consumer benefit" (Manyika et al., 2013)
 
-- However, I want to pause and make the case that the language and orientation feels significantly different when rooted within justice-based conception of information and participation
+- However, I want to pause and make the case that the language and orientation could be meaningfully different if rooted within a participatory, justice-based conception of information. _Access_ becomes redistributive rather than entry into a market, beyond understanding and discovery; recognition and criticality push for deeper literacies and fluency...
 
-- Next, the guide and the process of creation served to surface where there are, or should be _connections and links_ between people who could benefit and the people with expertise
+- Next, the guide and the process of creation served to surface where there are, or should be, _connections and links_ between people who could benefit from open data and the people with that opden data expertise
 
-- Finally, we wondered if instead of just looking at the 'open data itself,' there were potentials for seeing open data's value in the _'inbetween'_ or contested space that opening data can create:
-    - Whether when the inbetween is in government activities and their intentions around accountability
+- Finally, we wondered if instead of just looking at the 'open data' itself, there is something of potential in viewing open data's value as creating the _'inbetweens'_ or contested spaces through the processes of opening data:
+    - Whether that inbetween manifests in the discrepancies in government activities and their intentions around accountability
     - Or instead in the midst of everyday citizen concerns and their representation in policy making
 
 ## Reorientation of a Civil Society Perspective
@@ -61,16 +61,15 @@ When considering the perspective and attitude of the citizen, we must also consi
 
 ## Revaluation of Open Data (4min)
 
-Finally we wanted to end with some small thoughts on ways forward in understanding 'value' from a civil society perspective.
+Finally we wanted to end with some small thoughts on ways forward for our understanding of 'value' from a civil society perspective.
 
-If, as Kranzberg's first law of technology slightly tailored, articulates "[data] is neither good nor bad; nor is it neutral" we have to continually challenge ourselves and develop strategies that push us toward better outcomes:
+If, as Kranzberg's first law of technology, albeit slightly tailored, articulates "[data] is neither good nor bad; nor is it neutral" I think we have a responsibility to continually challenge ourselves and develop strategies that push us toward better outcomes:
 
-- First we are hoping for a greater **acknowledgement of the heterogeneity within civil society**. As Curtis mentioned, using the concept of **publics** can open space between an undifferentiated understanding of citizens. Recent work on Big Data's impact on marginalized communities by XXX and XXX brings this out.
+- First we are hoping for a greater **acknowledgement of the heterogeneity within civil society**. As Curtis mentioned, using the concept of **publics** is maybe one way to open space within currently undifferentiated understanding of citizens. Work on Big Data's impact on marginalized communities by Waddell and many scholars at Data & Society serve to emphasize the uneven structure of our civil society.
+  - Further, if as Le Dantec and DiSalvo argue, infrastructures contribute to the construction of these publics, more care needs to be taken in understanding how they are designed.
 
-- Further, if infrastructures lead to the construction of these publics more care needs to be taken in understanding the impacts of their design (Dantec, 2013)
+- Second, more work needs to be to resist equivocations of datafication with democracy (Powell, 2015). If we rely on open data alone to drive greater democracy, or give the appearance of such in our conversations, we are limiting our ability to assess whether we have fully understood the tradeoffs of relying on quantified experience and if we've avoided a potential collapse of those two concepts together
 
-- Second, more work needs to be to resist equivocations of datafication with democracy (Powell, 2015). If we rely on open data alone to drive greater democracy have we fully understood the tradeoffs of relying on quantified experience, is there a potential collapse that may be occuring?
-
-- Third, further thinking of engagement and mobilization. Participation to redress (Seiber and Johnson, 2015) rather than reinforce existing powerful groups.
+- Third, further thinking of engagement and mobilization. Open data understood as a path for governments to interact with citizens (Seiber and Johnson, 2015), using participation to redress rather than reinforce existing powerful groups.
 
 So, with all of this, how do we as open data researchers, but also representatives of civil society, challenge ourselves to keep these considerations visible, to work with friction, and demand technologies that remain opaque.
