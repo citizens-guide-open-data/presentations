@@ -3,9 +3,11 @@
 
 ### Structure
 
-* `bibliography/ ` contains a working bibliography including open data projects, government open data and existing guides
+* `bibliography/ ` contains a working bibliography (`.bib`) including open data projects, government open data sites, as well as existing guides,
 
 * `20160318_ischool-conference-workshop/ ` contains materials for a 45-min code-along workshop introducing open data alongside the __Citizens Guide to Municipal Open Data__
+
+* `20160510_geothink-si-presentation/ ` contains materials for a 15-min presentation on the __Citizens Guide to Municipal Open Data__ for the geothink summer institute. You can [download a pdf ](https://github.com/dcwalk/citizens-guide-open-data/blob/master/20160510_geothink-si-presentation/si-presentation-cgod.pdf) of the presentation
 
 ### License
 
