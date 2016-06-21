@@ -1,5 +1,6 @@
-# Citizen's Guide to Canadian Municipal Open Data
-### citizens-guide-open-data
+# Citizen's Guide to Canadian Municipal Open Data presentations
+
+A collection of presentations and workshops related to the citizen's guide development, as well as a bibliography of sources.
 
 ### Structure
 
